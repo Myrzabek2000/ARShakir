@@ -37,6 +37,7 @@ body {
   text-transform: uppercase;
   /* Text */
   color: #B5B5B5;
+  text-decoration: none;
 }
 #header .header__btn {
   margin: 0 10px;
